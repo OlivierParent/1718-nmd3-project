@@ -1,8 +1,15 @@
 New Media Design III 2017-2018
 ==============================
 
-Opdracht
---------
+Studenten:
+
+ - «voornaam» «familienaam»
+ - «voornaam» «familienaam»
+
+> Artevelde University College Ghent
+
+Productiedossier
+----------------
 
 ### Installatie
 

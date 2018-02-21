@@ -1,8 +1,8 @@
 ---
-layout   : production
-permalink: production/define/ideaboard/
+layout   : default
+permalink: design/ui-style-guide/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Ideaboard
+title: UI Style Guide
 ---

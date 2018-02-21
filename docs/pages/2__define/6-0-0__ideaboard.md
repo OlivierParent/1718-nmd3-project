@@ -1,10 +1,8 @@
 ---
-layout   : production
-permalink: production/design/smartwatch-app/wireflow/
+layout   : default
+permalink: define/ideaboard/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Wireflow
+title: Ideaboard
 ---
-
-

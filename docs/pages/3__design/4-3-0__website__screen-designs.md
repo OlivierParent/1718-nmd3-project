@@ -1,11 +1,8 @@
 ---
-layout   : production
-permalink: production/design/
+layout   : default
+permalink: design/website/screen-designs/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Design
+title: Screen Designs
 ---
-
-Overzicht
----------

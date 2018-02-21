@@ -1,8 +1,8 @@
 ---
-layout   : production
-permalink: production/design/smartwatch-app/screen-designs/
+layout   : default
+permalink: design/smartwatch-app/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Screen Designs
+title: Smartwatch-app
 ---

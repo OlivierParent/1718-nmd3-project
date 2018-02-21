@@ -1,8 +1,8 @@
 ---
-layout   : production
-permalink: production/define/analyse/
+layout   : ui-style-guide
+permalink: design/ui-style-guide/typografie/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Analyse
+title: Typografie
 ---

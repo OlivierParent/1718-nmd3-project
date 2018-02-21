@@ -1,8 +1,8 @@
 ---
-layout   : production
-permalink: production/define/journey-maps/
+layout   : default
+permalink: design/smartphone-app/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Journey Maps
+title: Smartphone-app
 ---

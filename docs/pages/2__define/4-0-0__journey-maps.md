@@ -1,8 +1,8 @@
 ---
-layout   : production
-permalink: production/design/website/wireframes/
+layout   : default
+permalink: define/journey-maps/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Wireframes
+title: Journey Maps
 ---

@@ -1,6 +1,6 @@
 ---
-layout   : production
-permalink: production/design/style-tiles/
+layout   : default
+permalink: design/style-tiles/
 published: true
 # Custom Page Variables
 # ─────────────────────

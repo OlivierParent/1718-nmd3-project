@@ -1,8 +1,8 @@
 ---
-layout   : production
-permalink: production/design/smartphone-app/
+layout   : default
+permalink: define/analyse/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Smartphone-app
+title: Analyse
 ---

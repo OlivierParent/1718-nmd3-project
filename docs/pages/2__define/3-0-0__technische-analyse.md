@@ -1,8 +1,8 @@
 ---
-layout   : production
-permalink: production/design/website/screen-designs/
+layout   : default
+permalink: define/technische-analyse/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Screen Designs
+title: Technische Analyse
 ---

@@ -1,8 +1,8 @@
 ---
-layout   : production
-permalink: production/define/technische-analyse/
+layout   : default
+permalink: define/planning/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Technische Analyse
+title: Planning
 ---

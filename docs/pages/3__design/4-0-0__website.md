@@ -1,6 +1,6 @@
 ---
-layout   : production
-permalink: production/design/website/
+layout   : default
+permalink: design/website/
 published: true
 # Custom Page Variables
 # ─────────────────────

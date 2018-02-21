@@ -1,8 +1,8 @@
 ---
-layout   : production
-permalink: production/design/smartphone-app/screen-designs/
+layout   : default
+permalink: design/website/sitemap/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Screen Designs
+title: Sitemap
 ---

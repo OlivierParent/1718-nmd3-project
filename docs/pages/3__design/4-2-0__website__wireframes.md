@@ -1,8 +1,8 @@
 ---
-layout   : production
-permalink: production/design/website/sitemap/
+layout   : default
+permalink: design/website/wireframes/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Sitemap
+title: Wireframes
 ---

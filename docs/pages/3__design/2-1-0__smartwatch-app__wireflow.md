@@ -1,10 +1,10 @@
 ---
-layout   : ui-style-guide
-permalink: ui-style-guide/overzicht/
+layout   : default
+permalink: design/smartwatch-app/wireflow/
+published: true
 # Custom Page Variables
 # ─────────────────────
-title: Overzicht
+title: Wireflow
 ---
 
-Overzicht
-=========
+

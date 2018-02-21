@@ -1,7 +1,7 @@
 ---
-layout   : default
+layout   : index
 permalink: index.html
 # Custom Page Variables
 # ─────────────────────
-title: New Media Design III Project
+title: Productiedossier
 ---

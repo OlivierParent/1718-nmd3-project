@@ -1,13 +1,13 @@
 ---
-layout   : production
-permalink: production/discover/
+layout   : default
+permalink: discover/briefing/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Discover
+title: Briefing
 ---
 
-Briefing
+Opdracht
 --------
 
 Teamleden

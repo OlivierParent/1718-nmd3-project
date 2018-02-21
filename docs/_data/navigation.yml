@@ -2,120 +2,118 @@
 # ║ Code indentation is important in YAML files! ║
 # ╚══════════════════════════════════════════════╝
 #
-# label       : label in navigation
+# title       : title in navigation
 # relative_url: permalink of the page
 # children    : subpages
 -
-  label: Productiedossier
+  title: Discover
+  # permalink: discover/
   children:
     -
-      label: Discover
-      relative_url: production/discover/
-      children:
-    -
-      label: Define
-      # relative_url: production/define/
-      children:
-        -
-          label: Planning
-          relative_url: production/define/planning/
-        -
-          label: Analyse
-          relative_url: production/define/analyse/
-        -
-          label: Technische Analyse
-          relative_url: production/define/technische-analyse/
-        -
-          label: Journey Maps
-          relative_url: production/define/journey-maps/
-        -
-          label: Concept
-          relative_url: production/define/concept/
-        -
-          label: Ideaboard
-          relative_url: production/define/ideaboard/
-    -
-      label: Design
-      # relative_url: production/design/
-      children:
-        -
-          label: Style Tiles
-          relative_url: production/design/style-tiles/
-        -
-          label: Smartwatch-app
-          relative_url: production/design/smartwatch-app/
-          children:
-            -
-              label: Wireflow
-              relative_url: production/design/smartwatch-app/wireflow/
-            -
-              label: Gebruikerstests
-              relative_url: production/design/smartwatch-app/gebruikerstests/
-            -
-              label: Screen Designs
-              relative_url: production/design/smartwatch-app/screen-designs/
-        -
-          label: Smartphone-app
-          relative_url: production/design/smartphone-app/
-          children:
-            -
-              label: Wireflow
-              relative_url: production/design/smartphone-app/wireflow/
-            -
-              label: Gebruikerstests
-              relative_url: production/design/smartphone-app/gebruikerstests/
-            -
-              label: Screen Designs
-              relative_url: production/design/smartphone-app/screen-designs/
-        -
-          label: Website
-          relative_url: production/design/website/
-          children:
-            -
-              label: Sitemap
-              relative_url: production/design/website/sitemap/
-            -
-              label: Wireframes
-              relative_url: production/design/website/wireframes/
-            -
-              label: Screen Designs
-              relative_url: production/design/website/screen-designs/
-    # -
-    #   label: Develop
-    #   relative_url: production/develop/
-    #   children:
-    # -
-    #   label: Deliver
-    #   relative_url: production/deliver/
-    #   children:
-    # -
-    #   label: Deploy
-    #   relative_url: production/deploy/
-    #   children:
+      title: Briefing
+      permalink: discover/briefing/
 -
-  label: UI Style Guide
+  title: Define
+  # permalink: define/
   children:
     -
-      label: Overzicht
-      relative_url: ui-style-guide/overzicht/
+      title: Planning
+      permalink: define/planning/
     -
-      label: Typegrafie
-      relative_url: ui-style-guide/typografie/
+      title: Analyse
+      permalink: define/analyse/
     -
-      label: Kleuren
-      relative_url: ui-style-guide/kleuren/
+      title: Technische Analyse
+      permalink: define/technische-analyse/
     -
-      label: Knoppen
-      relative_url: ui-style-guide/knoppen/
+      title: Journey Maps
+      permalink: define/journey-maps/
     -
-      label: Formulieren
-      relative_url: ui-style-guide/formulieren/
+      title: Concept
+      permalink: define/concept/
+    -
+      title: Ideaboard
+      permalink: define/ideaboard/
 -
-  label: Timesheets
+  title: Design
+  # permalink: design/
   children:
     -
-      label: Student 1
-      relative_url: timesheets/student-1/
+      title: Style Tiles
+      permalink: design/style-tiles/
     -
-      label: Student 2
-      relative_url: timesheets/student-2/
+      title: Smartwatch-app
+      permalink: design/smartwatch-app/
+      children:
+        -
+          title: Wireflow
+          permalink: design/smartwatch-app/wireflow/
+        -
+          title: Gebruikerstests
+          permalink: design/smartwatch-app/gebruikerstests/
+        -
+          title: Screen Designs
+          permalink: design/smartwatch-app/screen-designs/
+    -
+      title: Smartphone-app
+      permalink: design/smartphone-app/
+      children:
+        -
+          title: Wireflow
+          permalink: design/smartphone-app/wireflow/
+        -
+          title: Gebruikerstests
+          permalink: design/smartphone-app/gebruikerstests/
+        -
+          title: Screen Designs
+          permalink: design/smartphone-app/screen-designs/
+    -
+      title: Website
+      permalink: design/website/
+      children:
+        -
+          title: Sitemap
+          permalink: design/website/sitemap/
+        -
+          title: Wireframes
+          permalink: design/website/wireframes/
+        -
+          title: Screen Designs
+          permalink: design/website/screen-designs/
+    -
+      title: UI Style Guide
+      # permalink: design/ui-style-guide/
+      children:
+        -
+          title: Typografie
+          permalink: design/ui-style-guide/typografie/
+        -
+          title: Kleuren
+          permalink: design/ui-style-guide/kleuren/
+        -
+          title: Knoppen
+          permalink: design/ui-style-guide/knoppen/
+        -
+          title: Formulieren
+          permalink: design/ui-style-guide/formulieren/
+-
+  title: Develop
+  # permalink: develop/
+  children:
+-
+  title: Deliver
+  # permalink: deliver/
+  children:
+    -
+      title: Timesheets
+      # permalink: deliver/timesheets/
+      children:
+        -
+          title: Student 1
+          permalink: deliver/timesheets/student-1/
+        -
+          title: Student 2
+          permalink: deliver/timesheets/student-2/
+-
+  title: Deploy
+  # permalink: deploy/

@@ -1,6 +1,6 @@
 ---
-layout   : production
-permalink: timesheets/student-1/
+layout   : default
+permalink: deliver/timesheets/student-1/
 published: true
 # Custom Page Variables
 # ─────────────────────

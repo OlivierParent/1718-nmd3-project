@@ -1,8 +1,8 @@
 ---
-layout   : production
-permalink: production/define/planning/
+layout   : default
+permalink: design/smartphone-app/wireflow/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Planning
+title: Wireflow
 ---

@@ -1,11 +1,11 @@
 ---
-layout   : production
-permalink: production/design/smartphone-app/gebruikerstests/
+layout   : default
+permalink: design/smartwatch-app/gebruikerstests/
 published: true
 # Custom Page Variables
 # ─────────────────────
 title: Gebruikerstests
 ---
 
-Digital Prototype
------------------
+Paper Prototype
+---------------

@@ -1,8 +1,8 @@
 ---
-layout   : production
-permalink: production/define/concept/
+layout   : default
+permalink: design/smartwatch-app/screen-designs/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Concept
+title: Screen Designs
 ---
