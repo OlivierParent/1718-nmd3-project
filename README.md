@@ -56,7 +56,7 @@ baseurl: /«repositorynaam» # the subpath of your site, e.g. /blog
 
 ### GitHub Pages Configuratie
 
-Op GitHub ga je naar je repository en klik op **Settings**. Scroll naar beneden tot aan **GitHub Pages**, zet de **Source** op `master branch` en klik op **Save** om te bewaren.
+Op GitHub ga je naar je repository en klik op **Settings**. Scroll naar beneden tot aan **GitHub Pages**, zet de **Source** op `master branch /docs folder` en klik op **Save** om te bewaren.
 
 ### Voorbeeldsite
 
