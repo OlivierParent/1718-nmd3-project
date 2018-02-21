@@ -82,7 +82,7 @@
           permalink: design/website/screen-designs/
     -
       title: UI Style Guide
-      # permalink: design/ui-style-guide/
+      permalink: design/ui-style-guide/
       children:
         -
           title: Typografie
@@ -96,10 +96,10 @@
         -
           title: Formulieren
           permalink: design/ui-style-guide/formulieren/
--
-  title: Develop
-  # permalink: develop/
-  children:
+# -
+#   title: Develop
+#   # permalink: develop/
+#   children:
 -
   title: Deliver
   # permalink: deliver/
@@ -114,6 +114,6 @@
         -
           title: Student 2
           permalink: deliver/timesheets/student-2/
--
-  title: Deploy
-  # permalink: deploy/
+# -
+#   title: Deploy
+#   # permalink: deploy/

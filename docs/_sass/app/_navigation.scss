@@ -9,55 +9,62 @@ $nav-link-indentation-level: 1rem;
   flex-wrap: nowrap;
 }
 
-.nav-link.active {
-  background-color: $primary;
-  color: $light;
-}
-
-.gdm-nav-link-0,
-.gdm-nav-link-1,
-.gdm-nav-link-2,
-.gdm-nav-link-3 {
+.nav-link {
   position: relative;
   &::before {
     display: block;
     left: .5rem;
+    opacity: .5;
     position: absolute;
   }
-}
+  &.active {
+    background-color: $primary;
+    color: $light;
+  }
+  &.disabled {
 
-.gdm-nav-link-0 {
-  counter-reset: nav-link-1;
-  padding-left: $nav-link-indentation-base;
-  &::before {
-    content: counter(nav-link-0, upper-roman);
-    counter-increment: nav-link-0;
-   
   }
 }
 
-.gdm-nav-link-1 {
-  counter-reset: nav-link-2;
-  padding-left: $nav-link-indentation-base;
-  &::before {
-    content: counter(nav-link-1);
-    counter-increment: nav-link-1;
+.gdm-nav-level {
+  &-home {
+    padding-left: $nav-link-indentation-base;
+    > i {
+      left: .5rem;
+      opacity: .5;
+      position: absolute;
+      line-height: inherit;
+    }
   }
-}
-
-.gdm-nav-link-2 {
-  counter-reset: nav-link-3;
-  padding-left: $nav-link-indentation-base + 1 * $nav-link-indentation-level;
-  &::before {
-    content: counter(nav-link-1) "." counter(nav-link-2);
-    counter-increment: nav-link-2;
+  &-0 {
+    counter-reset: nav-link-1;
+    padding-left: $nav-link-indentation-base;
+    &::before {
+      content: counter(nav-link-0, upper-roman);
+      counter-increment: nav-link-0;
+    }
   }
-}
-
-.gdm-nav-link-3 {
-  padding-left: $nav-link-indentation-base + 2 * $nav-link-indentation-level;
-  &::before {
-    content: counter(nav-link-1) "." counter(nav-link-2) "." counter(nav-link-3);
-    counter-increment: nav-link-3;
+  &-1 {
+    counter-reset: nav-link-2;
+    padding-left: $nav-link-indentation-base;
+    &::before {
+      content: counter(nav-link-1);
+      counter-increment: nav-link-1;
+    }
+  }
+  &-2 {
+    counter-reset: nav-link-3;
+    padding-left: $nav-link-indentation-base + 1 * $nav-link-indentation-level;
+    &::before {
+      content: counter(nav-link-1) "." counter(nav-link-2);
+      counter-increment: nav-link-2;
+    }
+  }
+  &--3 {
+    padding-left: $nav-link-indentation-base + 2 * $nav-link-indentation-level;
+    &::before {
+      content: counter(nav-link-1) "." counter(nav-link-2) "." counter(nav-link-3);
+      counter-increment: nav-link-3;
+    }
   }
 }
