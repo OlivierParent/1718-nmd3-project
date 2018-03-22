@@ -10,5 +10,5 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - John Doe, 2CMO
- - Jane Doe, 2CMO
+ - «VOORNAAM» «NAAM», 2CMO
+ - «VOORNAAM» «NAAM», 2CMO
